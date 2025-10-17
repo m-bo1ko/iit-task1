@@ -6,7 +6,7 @@
 
 ---
 
-1) The wrong question: jobs vs. tasks
+## 1) The wrong question: jobs vs. tasks
 
 When people ask “Will AI take our jobs?”, they usually imagine whole occupations disappearing. History (electricity, PCs, the internet) suggests something subtler: technologies automate tasks, which changes job content, productivity, and demand. That’s why economists talk about task-level automation rather than job-level extinction.
 
